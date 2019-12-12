@@ -1,0 +1,42 @@
+.navbar {
+  background: #5FB404;
+  padding-bottom: 20px;
+}
+
+.quem-somos {
+  background: #2E8B57;
+  font-family: 'Courier New', Courier, monospace
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.margin-text {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.margin-footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.parceiros {
+  background: #9AFF9A;
+}
+
+.servicos {
+  background: #7CCD7C;
+}
+
+.img {
+  width: 100px;
+  height: 80px;
+}
+
+.bg-color {
+  background: black;
+  color: white;
+}
